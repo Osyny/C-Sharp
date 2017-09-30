@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<Weather xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <WeatherData>
+    <DataGroup>
+      <name>Минимальная температура</name>
+      <data>
+        <string>6</string>
+        <string>6</string>
+        <string>5</string>
+      </data>
+    </DataGroup>
+    <DataGroup>
+      <name>Максимальная температура</name>
+      <data>
+        <string>11</string>
+        <string>11</string>
+        <string>13</string>
+      </data>
+    </DataGroup>
+    <DataGroup>
+      <name>Изменяемая величина: ветер</name>
+      <data>
+        <string>Ветер с переменным направлением</string>
+        <string>Ветер с переменным направлением</string>
+        <string>Умеренный южный ветер</string>
+      </data>
+    </DataGroup>
+    <DataGroup>
+      <name>Изменяемая величина: пиктограмма</name>
+      <data>
+        <string>Облачно</string>
+        <string>Облачно</string>
+        <string>Облачно</string>
+      </data>
+    </DataGroup>
+    <DataGroup>
+      <name>Изменяемая величина: день</name>
+      <data>
+        <string>воскресенье</string>
+        <string>понедельник</string>
+        <string>вторник</string>
+      </data>
+    </DataGroup>
+    <DataGroup>
+      <name>Состояние атмосферы</name>
+      <data>
+        <string>В течение всего дня переменная облачность</string>
+        <string>В течение всего дня переменная облачность</string>
+        <string>В течение всего дня переменная облачность</string>
+      </data>
+    </DataGroup>
+    <DataGroup xsi:nil="true" />
+    <DataGroup xsi:nil="true" />
+  </WeatherData>
+</Weather>
