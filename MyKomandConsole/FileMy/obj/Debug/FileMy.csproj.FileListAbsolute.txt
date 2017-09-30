@@ -1,0 +1,6 @@
+D:\My\С_#\29_05_FAILE\pract\FileMy\FileMy\bin\Debug\FileMy.exe.config
+D:\My\С_#\29_05_FAILE\pract\FileMy\FileMy\bin\Debug\FileMy.exe
+D:\My\С_#\29_05_FAILE\pract\FileMy\FileMy\bin\Debug\FileMy.pdb
+D:\My\С_#\29_05_FAILE\pract\FileMy\FileMy\obj\Debug\FileMy.csprojResolveAssemblyReference.cache
+D:\My\С_#\29_05_FAILE\pract\FileMy\FileMy\obj\Debug\FileMy.exe
+D:\My\С_#\29_05_FAILE\pract\FileMy\FileMy\obj\Debug\FileMy.pdb

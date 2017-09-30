@@ -1,0 +1,10 @@
+D:\My\С_#\29_05_FAILE\pract\FileMy\KomandConsole\bin\Debug\KomandConsole.exe.config
+D:\MY\PROGECT_C++\С#\Class\29_05_FILE\pract\FileMy\KomandConsole\bin\Debug\KomandConsole.exe.config
+D:\MY\PROGECT_C++\С#\Class\29_05_FILE\pract\FileMy\KomandConsole\bin\Debug\KomandConsole.exe
+D:\MY\PROGECT_C++\С#\Class\29_05_FILE\pract\FileMy\KomandConsole\bin\Debug\KomandConsole.pdb
+D:\MY\PROGECT_C++\С#\Class\29_05_FILE\pract\FileMy\KomandConsole\obj\Debug\KomandConsole.exe
+D:\MY\PROGECT_C++\С#\Class\29_05_FILE\pract\FileMy\KomandConsole\obj\Debug\KomandConsole.pdb
+D:\MY\PROGECT_C++\С#\Class\29_05_FILE\pract\FileMy\KomandConsole\obj\Debug\KomandConsole.csprojResolveAssemblyReference.cache
+D:\MY\PROGECT_C++\С#\HomeWorc\29_05_CONSOLE_CD\KomandConsole\bin\Debug\KomandConsole.exe.config
+D:\MY\PROGECT_C++\С#\HomeWorc\29_05_CONSOLE_CD\KomandConsole\obj\Debug\KomandConsole.exe
+D:\MY\PROGECT_C++\С#\HomeWorc\29_05_CONSOLE_CD\KomandConsole\obj\Debug\KomandConsole.pdb
