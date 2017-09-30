@@ -1,0 +1,15 @@
+D:\My\С_#\09_06_SERILISATION\2048\2048\2048\bin\Debug\2048.exe.config
+D:\My\С_#\09_06_SERILISATION\2048\2048\2048\bin\Debug\2048.exe
+D:\My\С_#\09_06_SERILISATION\2048\2048\2048\bin\Debug\2048.pdb
+D:\My\С_#\09_06_SERILISATION\2048\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+D:\My\С_#\09_06_SERILISATION\2048\2048\2048\obj\Debug\2048.exe
+D:\My\С_#\09_06_SERILISATION\2048\2048\2048\obj\Debug\2048.pdb
+D:\MY\PROGECT_C++\С#\Class\09_06_SERIALIZATION\2048\2048\2048\bin\Debug\2048.exe.config
+D:\MY\PROGECT_C++\С#\Class\09_06_SERIALIZATION\2048\2048\2048\obj\Debug\2048.exe
+D:\MY\PROGECT_C++\С#\Class\09_06_SERIALIZATION\2048\2048\2048\obj\Debug\2048.pdb
+D:\MY\PROGECT_C++\С#\Class\09_06_SERIALIZATION\2048\2048\2048\bin\Debug\2048.exe
+D:\MY\PROGECT_C++\С#\Class\09_06_SERIALIZATION\2048\2048\2048\bin\Debug\2048.pdb
+D:\MY\PROGECT_C++\С#\Class\09_06_SERIALIZATION\2048\2048\2048\obj\Debug\2048.csprojResolveAssemblyReference.cache
+D:\MY\PROGECT_C++\С#\HomeWorc\2048_GAME\2048\bin\Debug\2048.exe.config
+D:\MY\PROGECT_C++\С#\HomeWorc\2048_GAME\2048\obj\Debug\2048.exe
+D:\MY\PROGECT_C++\С#\HomeWorc\2048_GAME\2048\obj\Debug\2048.pdb
