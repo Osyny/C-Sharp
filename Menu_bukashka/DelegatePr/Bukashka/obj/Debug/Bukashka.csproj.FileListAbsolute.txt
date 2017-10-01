@@ -1,0 +1,6 @@
+D:\MY\PROGECT_C++\С#\HomeWorc\15_05_DELEGATE2_Menu_BUKASHKY\Menu_bukashka\DelegatePr\Bukashka\bin\Debug\Bukashka.exe.config
+D:\MY\PROGECT_C++\С#\HomeWorc\15_05_DELEGATE2_Menu_BUKASHKY\Menu_bukashka\DelegatePr\Bukashka\bin\Debug\Bukashka.exe
+D:\MY\PROGECT_C++\С#\HomeWorc\15_05_DELEGATE2_Menu_BUKASHKY\Menu_bukashka\DelegatePr\Bukashka\bin\Debug\Bukashka.pdb
+D:\MY\PROGECT_C++\С#\HomeWorc\15_05_DELEGATE2_Menu_BUKASHKY\Menu_bukashka\DelegatePr\Bukashka\obj\Debug\Bukashka.exe
+D:\MY\PROGECT_C++\С#\HomeWorc\15_05_DELEGATE2_Menu_BUKASHKY\Menu_bukashka\DelegatePr\Bukashka\obj\Debug\Bukashka.pdb
+D:\MY\PROGECT_C++\С#\HomeWorc\15_05_DELEGATE2_Menu_BUKASHKY\Menu_bukashka\DelegatePr\Bukashka\obj\Debug\Bukashka.csprojResolveAssemblyReference.cache
